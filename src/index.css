@@ -1,0 +1,43 @@
+@import "tailwindcss";
+
+@font-face {
+    font-family: font1;
+    src: url(./assets/file.woff2);
+}
+@font-face {
+    font-family: font2;
+    src: url(./assets/file2.woff2);
+}
+
+#section-2 {
+    perspective: 3000px;
+    position: relative;
+}
+
+#moving-text{
+    white-space: nowrap;
+    overflow-x: auto;
+}
+
+#moving-text::-webkit-scrollbar{
+    display: none;
+}
+
+#con{
+    white-space: nowrap;
+    display: inline-block;
+    animation-name: move;
+    animation-duration: 10s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+}
+
+@keyframes move {
+    from{
+        transform: translateX(0);
+    }
+    to{
+        transform: translateX(-100%);
+    }
+}
+
