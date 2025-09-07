@@ -7,10 +7,10 @@ const Project3 = () => {
             
             <div className='flex items-center justify-between w-[40vw]'>
 
-                <div className='uppercase font-bold text-[1rem] font-[font2]'>ToDo List App
+                <div className='uppercase font-bold text-[1rem] font-[font2]'>Wassup Run Club
                 </div> 
 
-               <a className='text-3xl' href="https://sundown-clone-sherians.vercel.app/"> <i className="ri-external-link-line"></i></a>
+               <a className='text-3xl' href="https://responsive-wassup.vercel.app/"> <i className="ri-external-link-line"></i></a>
 
             </div>
             
