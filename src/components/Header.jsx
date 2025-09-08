@@ -27,7 +27,7 @@ useEffect(() => {
 
   return (
     <div className=' fixed flex items-center justify-end w-full z-10 py-20 px-20'>
-      <button id='top-btn' className='bg-[#02090F] px-4 py-2 hover:bg-white hover:scale-110 mr-2 transition-all duration-300 hover:text-black  rounded-full text-white text-xl '>Resume <i className="ri-download-fill"></i></button>
+ <a href="/assets/TPCV.pdf" download={"TejpalCV.pdf"}>     <button id='top-btn' className='bg-[#02090F] px-4 py-2 hover:bg-white hover:scale-110 mr-2 transition-all duration-300 hover:text-black  rounded-full text-white text-xl '>Resume <i className="ri-download-fill"></i></button></a>
 
       <i id='menu-icon' className="ri-menu-line text-4xl ml-3 hover:scale-120 transition-all duration-300 text-gray-500 hover:transform hover:rotate-90"></i>
 
