@@ -57,7 +57,7 @@
 }
 
 
-@media (max-width: 460px) {
+@media (max-width: 640px) {
     .name{
         font-size: 20px;
         padding:2rem;
