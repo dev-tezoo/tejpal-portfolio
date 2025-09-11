@@ -181,7 +181,7 @@
     #pg5-right{
         width: 90vw;
         margin-left: 0;
-        gap: 3rem;
+        gap: 2rem;
     }
     .h3{
         font-size: 1rem;
@@ -189,5 +189,52 @@
     .p{
         font-size: 0.7rem;
         line-height: 1rem;
+        width: 66vw;
+    }
+    .pg6{
+        height: 10vh;
+    }
+    .pg6-top{
+        margin-left: 2rem;
+        margin-top: 0;
+    }
+    .esc-cont{
+        gap: 3.5rem;
+    }
+    .esc{
+        font-size: 2rem;
+    }
+    .esc-txt{
+        font-size: 0.9rem;
+    }
+    #projects{
+        display: none;
+    }
+    #footer{
+        width: 90vw;
+    }
+    .footer-moving-txt{
+        height: 20vh;
+        width: 20vh;
+        top: 25%;
+        left: 10%;
+    }
+    .foot-anime{
+        height: 15vh;
+        width: 15vh;
+    }
+    .btm-txt{
+        font-size: 0.7rem;
+        bottom: 5%;
+        left: 10%;
+    }
+    .add-txt{
+        font-size: 0.7rem;
+        left: 10%;
+    }
+    .mail-txt{
+        font-size: 1rem;
+        top: 8%;
+        left: 10%;
     }
 }

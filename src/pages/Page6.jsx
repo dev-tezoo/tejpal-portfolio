@@ -6,10 +6,10 @@ import Project3 from '../components/Project3'
 
 const Page6 = () => {
   return (
-    <div className='h-[250vh] p-[2vh]'>
-        <div className='h-[20vh] w-[50vw] ml-20 mt-10'>
+    <div className='pg6 h-[250vh] p-[2vh]'>
+        <div className='pg6-top h-[20vh] w-[50vw] ml-20 mt-10'>
             <EatSleepCode />
-            <div className='h-[210vh] w-[70vw] bg-black border rounded-4xl p-10'>
+            <div id='projects' className='h-[210vh] w-[70vw] bg-black border rounded-4xl p-10'>
                 <h1 className='text-white font-[font1] text-[8rem]'>PROJECTS</h1>
                 <div className='w-full h-[185vh]'>
                         <Project1 />
