@@ -61,8 +61,8 @@ const Page1Bottom = () => {
   // }, []);
 
   return (
-    <div className='absolute flex items-center justify-between bottom-10 mx-[90px] my-[20px] w-[90vw] h-[9vh] left-0'>
-        <div className='text-2xl font-bold'>
+    <div className='pg1-btm absolute flex items-center justify-between bottom-10 mx-[90px] my-[20px] w-[90vw] h-[9vh] left-0'>
+        <div className='pg1-btm-txt text-2xl font-bold'>
             <h1>Website Designer | Freelancing | Creative UI</h1>
         </div>
         <div id='btm-git' className='text-5xl pg-3clr right-18 fixed text-gray-800'>
