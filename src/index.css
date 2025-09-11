@@ -62,6 +62,27 @@
         font-size: 20px;
         padding:2rem;
     }
+    .pg1-top-right{
+        padding: 3rem 7rem;
+    }
+    #top-btn{
+        width: 100px;
+        height: 40px;
+        font-size: 14px;
+    }
+    #menu-icon{
+        margin-left: 0;
+        margin-right: 1rem;
+    }
+    #menu-banner{
+        right: 7.5rem;
+        bottom: -4.5rem;
+        width: 28vw;
+        font-size: 18px;
+    }
+    .tunn{
+        right: 1.2rem;
+    }
 
     .tilt-text h1{
         margin-top: 7rem;
@@ -73,10 +94,35 @@
         line-height: 12vw;
     }
     .pg1-btm{
-        margin: 0 2rem;
+        margin: 2rem;
+        flex-direction: column;
     }
     .pg1-btm-txt{
-        font-size: 12px;
+        font-size: 14px;
+    }
+    #btm-git{
+        font-size: 2rem;
+        position: absolute;
+        bottom: 0;
+        right: 72vw;
+    }
+    #btm-linkedin{
+        font-size: 2rem;
+        position: absolute;
+        bottom: 0;
+        right: 12vw;
+    }
+    #btm-instagram{
+        font-size: 2rem;
+        position: absolute;
+        bottom: 0;
+        right: 32vw;
+    }
+    #btm-twitter{
+        font-size: 2rem;
+        position: absolute;
+        bottom: 0;
+        right: 52vw;
     }
     
 }
