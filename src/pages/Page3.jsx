@@ -3,7 +3,7 @@ import React from 'react'
 const Page3 = () => {
   return (
     <div id='page3' className='text-white h-screen py-[2vh] px-[1vw]'>
-      <div className='bg-black h-[96vh] rounded-4xl px-10'>
+      <div className='pg3-kala-box bg-black h-[96vh] rounded-4xl px-10'>
         <h1 className='about text-[18rem] font-[font1] uppercase'>About</h1>
         <h2 className='text-2xl font-[font2]'>"I design the web’s stage where ideas perform and users applaud."</h2><br />
         <h3 className='pg3-h3 w-[70vw] font-[font2]'>

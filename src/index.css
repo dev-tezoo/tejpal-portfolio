@@ -132,6 +132,13 @@
     #section-2{
         display: none;
     }
+
+    #page3{
+        padding: 2vh;
+    }
+    .pg3-kala-box{
+        padding-top: 3vh;
+    }
     .about{
         font-size: 5rem;
     }
