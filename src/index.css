@@ -139,5 +139,27 @@
         width: 80vw;
         font-size: 0.8rem;
     }
-    
+
+    #page4{
+        padding: 0;
+    }
+    .pg4-cont{
+        width: 90vw;
+        height: 75vh;
+        padding: 1vw;
+        flex-direction: column;
+        justify-content: center;
+    }
+    .skill-txt{
+        margin-left: 2vw;
+    }
+    .skill-cont{
+        margin-right: 2vw;
+        gap: 1rem;
+        padding: 2vh;
+        
+    }
+    #skills{
+        font-size: 0.7rem;
+    }
 }
