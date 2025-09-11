@@ -59,20 +59,21 @@
 
 @media (max-width: 640px) {
     .name{
-        font-size: 22px;
-        padding:2.5rem 2rem;
+        font-size: 20px;
+        padding:2.5rem 1rem;
     }
     .pg1-top-right{
-        padding: 3rem 7rem;
+        padding: 3rem 6.2rem;
     }
     #top-btn{
-        width: 100px;
-        height: 40px;
-        font-size: 14px;
+        width: 85px;
+        height: 35px;
+        font-size: 10px;
     }
     #menu-icon{
         margin-left: 0;
-        margin-right: 1rem;
+        margin-right: 1.5rem;
+        font-size: 24px;
     }
     #menu-banner{
         right: 7.5rem;
@@ -168,5 +169,25 @@
     }
     #skills{
         font-size: 0.7rem;
+    }
+
+    .pg5-kala-box{
+        padding: 2vh;
+        height: 100vh;
+    }
+    #pg5-left{
+        font-size: 5rem;
+    }
+    #pg5-right{
+        width: 90vw;
+        margin-left: 0;
+        gap: 3rem;
+    }
+    .h3{
+        font-size: 1rem;
+    }
+    .p{
+        font-size: 0.7rem;
+        line-height: 1rem;
     }
 }
