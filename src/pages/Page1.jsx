@@ -10,7 +10,7 @@ const Page1 = () => {
   return (
     <div id='page1' className='h-screen px-4 py-4 bg-white'>
         <div className='text-white shadow-xl shadow-gray-600 h-full w-full bg-[url(./assets/pgg-1.jpeg)] bg-cover bg-center rounded-[50px]'>
-            <h1 className='text-4xl px-20 py-12 font-[Poppins] font-bold '>| Tejpal singh</h1>
+            <h1 className='text-4xl px-20 py-12 font-[Poppins] font-bold sm:text-[22px]'>| Tejpal singh</h1>
             <TiltText />
             <Page1Bottom />
         </div>
