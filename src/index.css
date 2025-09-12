@@ -212,7 +212,7 @@
     }
     #footer{
         width: 90vw;
-    /* }
+    }
     .footer-moving-txt{
         height: 25vh;
         width: 25vh;
@@ -223,7 +223,7 @@
     .foot-anime{
         height: 22vh;
         width: 22vh;
-         */
+        
         
     }
     .btm-txt{
@@ -237,7 +237,7 @@
     }
     .mail-txt{
         font-size: 1rem;
-        top: 70%;
+        top: 10%;
         left: 10%;
     }
 }
