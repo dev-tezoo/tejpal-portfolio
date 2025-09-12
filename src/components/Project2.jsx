@@ -7,10 +7,10 @@ const Project2 = () => {
             
             <div className='flex items-center justify-between w-[40vw]'>
 
-                <div className='uppercase font-bold text-[1rem] font-[font2]'>3D Portfolio
+                <div className='uppercase font-bold text-[1rem] font-[font2]'>Form Validation Project
                 </div> 
 
-               <a className='text-3xl' href="https://tejpal-portfolio.vercel.app/"> <i className="ri-external-link-line"></i></a>
+               <a className='text-3xl' href="https://kodbud-task4-form-validation.vercel.app/"> <i className="ri-external-link-line"></i></a>
 
             </div>
             
