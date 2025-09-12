@@ -214,17 +214,14 @@
         width: 90vw;
     }
     .footer-moving-txt{
-        height: 25vh;
-        width: 25vh;
+        height: 20vh;
+        width: 20vh;
         top: 25%;
         left: 10%;
 
     }
-    .foot-anime{
-        height: 22vh;
-        width: 22vh;
-        
-        
+    #foot-anime{
+        font-size: 2rem;
     }
     .btm-txt{
         font-size: 0.7rem;
