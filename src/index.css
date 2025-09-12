@@ -66,16 +66,18 @@
         padding: 3rem 2rem;
     }
     #top-btn{
-        width: 85px;
-        height: 35px;
-        font-size: 10px;
+        width: 100px;
+        height: 40px;
+        font-size: 14px;
     }
     #menu-icon{
+        display: none;
         margin-left: 0;
         margin-right: 1.5rem;
         font-size: 24px;
     }
     #menu-banner{
+        display: none;
         right: 7.5rem;
         bottom: -4.5rem;
         width: 28vw;
