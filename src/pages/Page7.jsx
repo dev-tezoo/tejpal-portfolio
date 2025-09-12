@@ -5,7 +5,7 @@ const Page7 = () => {
     <div className='h-[50vh] p-5'>
       <div id='footer' className='bg-black h-[90%] w-[90%] rounded-4xl relative p-10 text-white'>
         <div className="footer-moving-txt absolute h-[24vh] w-[20vh]">
-          <img id='foot-anime' className='h-[20vh] w-[20vh] rounded-full' src="/src/assets/footer-img.png" alt="" />
+          <img id='foot-anime' className='h-[20vh] w-[20vh] rounded-full' src="/src/assets/footer-img2.png" alt="" />
         </div>
         <div className='add-txt absolute bottom-[35px]'> <i class="ri-map-pin-line"></i> &nbsp; Jodhpur, Rajasthan, India</div>
 
