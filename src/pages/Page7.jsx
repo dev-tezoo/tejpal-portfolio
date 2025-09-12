@@ -4,8 +4,9 @@ const Page7 = () => {
   return (
     <div className='h-[50vh] p-5'>
       <div id='footer' className='bg-black h-[90%] w-[90%] rounded-4xl relative p-10 text-white'>
-        <div id='gg' className="footer-moving-txt absolute h-[24vh] w-[20vh]">
-          <img id='foot-anime' className='h-[20vh] w-[20vh] rounded-full' src="/src/assets/footer-img2.png" alt="" />
+        <div id='gg' className="footer-moving-txt absolute h-[24vh] w-[24vh] rounded-full border items-center justify-center flex">
+          {/* <img id='foot-anime' className='h-[20vh] w-[20vh] rounded-full' src="/src/assets/footer-img2.png" alt="" /> */}
+          <h1 id='foot-anime' className='border-t-2 border-b-2 text-[2.8rem]'>Tezoo...</h1>
         </div>
         
         <div className='add-txt absolute bottom-[35px]'> <i class="ri-map-pin-line"></i> &nbsp; Jodhpur, Rajasthan, India</div>
